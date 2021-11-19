@@ -10,10 +10,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(225deg, hsla(179, 67%, 66%, 1) 0%, hsla(210, 70%, 64%, 1) 66%, hsla(238, 74%, 61%, 1) 100%);;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
+
 }
 
 .footer {
